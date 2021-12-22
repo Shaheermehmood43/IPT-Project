@@ -1,0 +1,16 @@
+﻿Installing assembly 'C:\Users\ACID\Desktop\Project_UI\Project_UI\bin\Debug\Project_UI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ACID\Desktop\Project_UI\Project_UI\bin\Debug\Project_UI.InstallLog
+   assemblypath = C:\Users\ACID\Desktop\Project_UI\Project_UI\bin\Debug\Project_UI.exe
+Installing service ProjectService...
+Service ProjectService has been successfully installed.
+Creating EventLog source ProjectService in log Application...
+Installing service ProService...
+Service ProService has been successfully installed.
+Creating EventLog source ProService in log Application...
+Committing assembly 'C:\Users\ACID\Desktop\Project_UI\Project_UI\bin\Debug\Project_UI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ACID\Desktop\Project_UI\Project_UI\bin\Debug\Project_UI.InstallLog
+   assemblypath = C:\Users\ACID\Desktop\Project_UI\Project_UI\bin\Debug\Project_UI.exe
